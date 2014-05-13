@@ -1,4 +1,0 @@
-bridge
-======
-
-R package
